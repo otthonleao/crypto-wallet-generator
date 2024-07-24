@@ -1,0 +1,16 @@
+{
+  "name": "btcwallet",
+  "version": "1.0.0",
+  "description": "Wallet to blockchain transactions with bitcoin ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Otthon Leão",
+  "license": "ISC",
+  "dependencies": {
+    "bip32": "^2.0.6",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.6"
+  }
+}
